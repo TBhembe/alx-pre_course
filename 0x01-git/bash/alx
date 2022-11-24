@@ -1,7 +1,2 @@
 #!/bin/bash
-ALXroot@1f30dc30ba3e:/alx-pre_course/0x01-git/bash# cat alx
-#!/bin/bash
-ALXroot@1f30dc30ba3e:/alx-pre_course/0x01-git/bash# cat > school
-#!/bin/bash
-Schoolroot@1f30dc30ba3e:/alx-pre_course/0x01-git/bash# ls
-root@1f30dc30ba3e:/alx-pre_course/0x01-git/bash# ls
+ALX school is so cool!
